@@ -91,12 +91,12 @@ section.imagem>p{
 }
 
 section#img01{
-    background-image: url('/Desafio12/imagens/background001.jpg');
+    background-image: url("/background001.jpg");
     background-position: right center;
     background-attachment: fixed;
 }
 section#img02{
-    background-image: url('/Desafio12/imagens/background002.jpg');
+    background-image: url("/background002.jpg");
 }
 
 footer{
