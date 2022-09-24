@@ -89,12 +89,13 @@ section.imagem>p{
 }
 
 section#img01{
-    background-image: url("/imagens/background001.jpg");
-    background-position: right center;
+    background-image: url("https://images.pexels.com/photos/121472/ladybug-beetle-coccinellidae-insect-121472.jpeg?cs=srgb&dl=pexels-pixabay-121472.jpg&fm=jpg");
+    background-position: center center;
     background-attachment: fixed;
 }
 section#img02{
-    background-image: url("/imagens/background002.jpg");
+    background-image: url("https://images.pexels.com/photos/51343/old-letters-old-letter-handwriting-51343.jpeg?cs=srgb&dl=pexels-pixabay-51343.jpg&fm=jpg");
+    background-position: center center;
 }
 
 footer{
